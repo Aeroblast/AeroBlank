@@ -1,0 +1,24 @@
+#OpenFileButton
+{
+    position: fixed;
+    left: 0;
+    top:0;
+    width:100px;
+    height:100px;
+    background: rgba(173, 243, 252,0);
+    
+}
+#OpenFileButton:hover
+{
+    background: rgba(173, 243, 252,0.9);
+}
+#centerImage
+{ 
+    height: 100%;   
+}
+#imageWrapper
+{
+    top:5wh;
+    height: 100%;
+    text-align:center;
+}
