@@ -1,0 +1,4 @@
+# AeroBlank
+自定义空白页图片的Chrome插件
+
+现在Chrome不让加自己的插件了，无奈扔进localhost用了个newtab重定向的应用orz
